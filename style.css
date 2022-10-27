@@ -378,4 +378,11 @@ form textarea{
         text-align: center;
         margin-bottom: 30px;
     }
+    .about-img img{
+        max-width: 100%;
+        width: 700px;
+        height: auto;
+             
+    }
+ 
 }
