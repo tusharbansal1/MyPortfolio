@@ -83,14 +83,15 @@ section{
     padding: 120px 15%;
 }
 .home{
-     height: 70vh;
+     height: 80vh;
      width: 100%;
      background: var(--bg-color);
      background-size: cover;
      background-position: center;
      align-items: center;
-     display: grid;
-     grid-template-columns: repeat(2,1fr);
+     margin-top: 40px;
+     /* display: grid;
+     grid-template-columns: repeat(2,1fr); */
 
 }
 .home-text h1{
@@ -105,8 +106,10 @@ span{
     font-size: 25px;
 }
 .obj{
-    letter-spacing: 2px;
-    font-size: 20px;
+    letter-spacing: 2.2px;
+    font-size: 14px;
+    font-weight: 500;
+
 }
 .home-text h4{
     color: #585c63;
